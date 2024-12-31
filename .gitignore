@@ -1,0 +1,6 @@
+__pycache__
+__init__.py
+node_modules
+.idea
+dist
+db.sqlite3
